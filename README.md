@@ -20,14 +20,15 @@ The datetime module is utilized to manage dates and timestamps. It aids in track
 
 
 **Functionality of this Project:**
-**1. _Create and Track Habits:**_
+
+**1. _Create and Track Habits:_**
 
 Users can create new habits within the PyHabitTracker, specifying details such as habit name, target value, and frequency.
 
-**2. _Daily Updates:**_
+**2. _Daily Updates:_**
 
 The tracker encourages users to log their daily progress by making updates through the Python script. This information is sent to the Pixela API, updating the habit graph accordingly.
 
-**3. _Visualize Progress:**_
+**3. _Visualize Progress:_**
 
 The Pixela website offers graphical representations of habit streaks and trends over time, motivating users to stay consistent in their habit-building journey.
